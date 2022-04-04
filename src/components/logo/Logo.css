@@ -1,0 +1,8 @@
+.Tilt {
+    background-image: linear-gradient(
+      90deg,
+      hsl(140deg 49% 54%) 0%,
+      hsl(99deg 39% 64%) 50%,
+      hsl(71deg 32% 70%) 100%
+    )
+}
